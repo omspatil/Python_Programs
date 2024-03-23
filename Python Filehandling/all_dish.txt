@@ -1,0 +1,19 @@
+101,Masala Dosa,60
+102,Plain Dosa,50
+103,Vada Sambar,50
+104,Idli Sambar,50
+105,Uttappa,50
+106,Rice,40
+107,Paneer Masala,120
+108,Palak Paneer,120
+109,Chapati,12
+110,Papad,20101,Masala Dosa,60
+102,Plain Dosa,50
+103,Vada Sambar,50
+104,Idli Sambar,50
+105,Uttappa,50
+106,Rice,40
+107,Paneer Masala,120
+108,Palak Paneer,120
+109,Chapati,12
+110,Papad,20
